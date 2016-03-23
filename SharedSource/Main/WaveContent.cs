@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-// File generated on 06.03.2016 12:15:01
+// File generated on 23.03.2016 14:05:22
 namespace TeapotSample
 {
     using System;

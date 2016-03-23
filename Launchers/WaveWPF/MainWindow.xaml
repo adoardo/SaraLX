@@ -3,13 +3,13 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:local="clr-namespace:WaveWPF"
         Title="MainWindow" Width="1280" Height="720">
-    <Grid x:Name="mainGrid">
+ <Grid x:Name="mainGrid">
         <local:WaveCanvas x:Name="waveCanvas"/>
-        <Grid x:Name="mainInner" 
+        <!--     <Grid x:Name="mainInner" 
               Width="1280" 
               Height="720" 
               VerticalAlignment="Top" 
-              HorizontalAlignment="Left">
+              HorizontalAlignment="Left" Margin="37,10,-45,-41">
         <Grid.Background>
             <ImageBrush ImageSource="file:///E:/SARA_LX/SARALX_CLIENT/Launchers/WaveWPF/Resource/bg.png"/>
         </Grid.Background>
@@ -68,7 +68,8 @@
             <CheckBox x:Name="checkBox" Foreground="#6699cc" FontSize="30" FontFamily="Myriad Pro Bold Cond" Content="Запомнить меня" HorizontalAlignment="Left" Margin="20,175,0,0" VerticalAlignment="Top" Height="50" Width="345"/>
             <TextBlock x:Name="textBlock1" Foreground="#6699cc" FontSize="30" FontFamily="Myriad Pro Bold Cond" Text="Забыли пароль?" HorizontalAlignment="Left" Margin="40,235,0,0" TextWrapping="Wrap" VerticalAlignment="Top"/>
 
-        </Grid>
-        </Grid>
+        </Grid> 
+        </Grid>-->
+        <Button x:Name="button" Content="Button" HorizontalAlignment="Left" VerticalAlignment="Top" Width="859" Height="364" Click="button_Click"/>
     </Grid>
 </Window>
