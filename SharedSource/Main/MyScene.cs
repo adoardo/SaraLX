@@ -16,6 +16,7 @@ namespace TeapotSample
 {
     public class MyScene : Scene
     {
+        /* test */
         protected override void CreateScene()
         {
             this.Load(WaveContent.Scenes.MyScene);

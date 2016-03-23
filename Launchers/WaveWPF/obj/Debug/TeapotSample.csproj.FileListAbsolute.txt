@@ -68,3 +68,6 @@ E:\SARA_LX\SARALX_CLIENT\Launchers\WaveWPF\obj\Debug\MainWindow.baml
 E:\SARA_LX\SARALX_CLIENT\Launchers\WaveWPF\obj\Debug\WaveWPF.g.resources
 E:\SARA_LX\SARALX_CLIENT\Launchers\WaveWPF\obj\Debug\WaveWPF.Properties.Resources.resources
 E:\SARA_LX\SARALX_CLIENT\Launchers\WaveWPF\obj\Debug\TeapotSample.csproj.GenerateResource.Cache
+E:\git_test\SaraLX\Launchers\WaveWPF\bin\Debug\WaveWPF.exe.config
+E:\git_test\SaraLX\Launchers\WaveWPF\obj\Debug\WaveWPF.exe
+E:\git_test\SaraLX\Launchers\WaveWPF\obj\Debug\WaveWPF.pdb
