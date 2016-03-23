@@ -29,7 +29,12 @@ namespace WaveWPF
 
         private void passwordtextBox_TextChanged(object sender, TextChangedEventArgs e)
         {
+           
+        }
 
+        private void button_Click(object sender, RoutedEventArgs e)
+        {
+            MessageBox.Show("Диагностика жопы НННада по бесплатухе?");
         }
     }
 }
